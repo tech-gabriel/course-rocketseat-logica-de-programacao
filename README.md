@@ -1,6 +1,6 @@
 # 🚀 Lógica de programação - Rocketseat
 
-![Rocketseat](https://img.shields.io/badge/Rocketseat-Lógica_de_Programação-8234E9?style=for-the-badge)
+![Rocketseat](https://img.shields.io/badge/Rocketseat-Lógica_de_Programação-8234E9?style=for-the-badge&labelColor=8234E9&color=000000)
 
 Repositório contendo todos os códigos das aulas, atividades, desafios e projetos desenvolvidos no curso de Lógica de Programação da Rocketseat.
 
