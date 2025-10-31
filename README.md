@@ -1,4 +1,4 @@
-# 🚀 Lógica de Programação - Rocketseat
+# 🚀 Lógica de programação - Rocketseat
 
 ![Rocketseat](https://img.shields.io/badge/Rocketseat-Lógica_de_Programação-8234E9?style=for-the-badge)
 
